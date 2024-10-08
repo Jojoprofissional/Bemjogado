@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../correios"
+		},
+		{
+			"path": "../../Downloads/localstoregem"
+		},
+		{
+			"path": "../../Downloads/js_dom_carrinho"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "correios"
+	}
+}
